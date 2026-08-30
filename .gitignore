@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+outputs/*.json
+outputs/*.csv
+data/generated/*.csv
